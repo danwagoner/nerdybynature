@@ -14,17 +14,13 @@ Hangman is one of those simple word games that almost everyone knows — which m
 
 Code repo: <https://github.com/danwagoner/hangmanduino>
 
-<figure class="align-center">
-  <a href="#"><img src="{{ '/images/hangmanduino/schematic.jpg' | absolute_url }}" alt=""></a>
-</figure> 
-
 ---
 
 ## What the Project Does
 The Arduino sketch loads a small word list and randomly selects one each game. The interaction is intentionally simple:
 
-- Turn a **potentiometer** to scroll through the alphabet  
-- Press a **button** to guess a letter  
+- Turn a potentiometer to scroll through the alphabet  
+- Press a button to guess a letter  
 - The display shows:
   - The word with blanks  
   - Which letters you’ve already picked  
@@ -49,6 +45,10 @@ To build this project, you’ll need:
 The potentiometer provides an analog value from 0–1023. The sketch maps this range to the 26 letters of the alphabet. The button is debounced and handles both short presses (letter selection) and long presses (reset).
 
 The display shows the evolving game state: the hidden word, selected letters, and wrong-guess counter.
+
+<figure class="align-center">
+  <a href="#"><img src="{{ '/images/hangmanduino/schematic.png' | absolute_url }}" alt=""></a>
+</figure> 
 
 ---
 
