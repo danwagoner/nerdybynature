@@ -1,0 +1,7 @@
+---
+# title: Nerdy By Nature
+layout: home
+permalink: /
+show_excerpts: true
+entries_layout: grid
+---
