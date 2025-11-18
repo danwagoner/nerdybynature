@@ -7,10 +7,10 @@ image:
 date: 2009-08-31
 category: arduino
 tags: [arduino, electronics, hangman]
-description: Hangman is one of those simple word games that almost everyone knows — which makes it perfect for turning into a physical, interactive Arduino build. I wanted a quick project that blended analog input, digital input, display output, and small-scale game logic. The result was **Hangmanduino**, a tactile version of Hangman where you play using a knob and a button.
+description: Hangman is one of those simple word games that almost everyone knows, which makes it perfect for turning into a physical, interactive Arduino build. I wanted a quick project that blended analog input, digital input, display output, and small-scale game logic. The result was **Hangmanduino**, a tactile version of Hangman where you play using a knob and a button.
 ---
 
-Hangman is one of those simple word games that almost everyone knows — which makes it perfect for turning into a physical, interactive Arduino build. I wanted a quick project that blended analog input, digital input, display output, and small-scale game logic. The result was **Hangmanduino**, a tactile version of Hangman where you play using a knob and a button.
+Hangman is one of those simple word games that almost everyone knows, which makes it perfect for turning into a physical, interactive Arduino build. I wanted a quick project that blended analog input, digital input, display output, and small-scale game logic. The result was **Hangmanduino**, a tactile version of Hangman where you play using a knob and a button.
 
 Code repo: <https://github.com/danwagoner/hangmanduino>
 

@@ -97,3 +97,6 @@ footer_links:
   - title: GitHub
     url: https://github.com/danwagoner
     icon: fab fa-github-square
+  - title: Youtube
+    url: https://www.youtube.com/@danwagoner
+    icon: fab fa-youtube-square
